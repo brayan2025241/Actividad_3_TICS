@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 Marlon 
 Brayan
- Elías Esté 
-=======
+Elías Esté 
 Ariel 
-Marlon 
-Brayan
->>>>>>> 6ea4f962573143cc8245ebd3a1dbeb4de8e52fe7
 
